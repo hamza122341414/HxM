@@ -1,4 +1,4 @@
 import os
-import ranodm
+import random
 os.system("git pull")
 import R
