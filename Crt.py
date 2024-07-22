@@ -1,4 +1,4 @@
 import random
 import os
 os.system("clear")
-import c
+print("UPDATE HO RAHI HA")
