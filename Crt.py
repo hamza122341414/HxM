@@ -2,6 +2,6 @@ import random
 import os
 import time
 os.system("clear")
-#print("SERVER IS ON UPDATE")
+print("CHECK SERVER");time.sleep(3)
 #print("AFTER SOME TIME TRY  AGIAN");time.sleep(300)
-import c
+import abc_Enc
